@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1BB1C02-15FF-4E06-8D27-5EA65AFCB055</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Blinker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE1C16C8-6CE9-45A3-8673-800BD18A5404</key>
+		<string>https://github.com/E7Systems/blinker_phonegap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Blinker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE1C16C8-6CE9-45A3-8673-800BD18A5404</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/E7Systems/blinker_phonegap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE1C16C8-6CE9-45A3-8673-800BD18A5404</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE1C16C8-6CE9-45A3-8673-800BD18A5404</string>
+			<key>IDESourceControlWCCName</key>
+			<string>blinker-phonegap-demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
